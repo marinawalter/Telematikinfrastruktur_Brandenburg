@@ -1,0 +1,53 @@
+                                                                          0
+0                                                            windowsupdates
+1                                                                abrechnung
+2                                                              keine angabe
+3                                                            keine probleme
+4                                                               anmeldungen
+5                                                                     labor
+6                                           tätigkeiten rund um it (updates
+7                                                          patientenkontakt
+8                                                         patientengespäche
+9                                                                   e-brief
+10                                                       patientenbetreuung
+11                                                         dokumentation !!
+12                                                            dokumentation
+13                                            einscannen von fremd-befunden
+14                                                            dokumentation
+15                                                         software updates
+16                                                     abrechnungskontrolle
+17                                                                       ti
+18                                      meldung von covidfällen ans ges amt
+19                                                       ausstellen der eau
+20                                                                 anamnese
+21                                          fremdbefunde abholen/einpflegen
+22                                                 rezepte und verordnungen
+23                                                                   update
+24                                                                      eau
+25                                          signieren und versenden der eau
+26                                                                  rezepte
+27                                                                 abstürze
+28                                                     abrechnungskontrolle
+29                                                       befundauswertungen
+30               neustart der software wegen systemabsturz im praxisbetrieb
+31                                                              überweisung
+32                                              telefonate mit der it-firma
+33                                                          kassen anfragen
+34                                                                  eau...)
+35                                                            dokumentation
+36                                                     arztbriefe schreiben
+37                                                          laborauswertung
+38                                                           kassenanfragen
+39                                das schritthalten mit stetigen neuerungen
+40                                                      befunddokumentation
+41                                                          kv-abrechnungen
+42                                                                     ohne
+43                                               terminverwaltung (annahme)
+44  probelme mit kartenterminal uns wechsela auf das mobile kartenlesegerät
+45                                                               arztbriefe
+46                                                               telefonate
+47                           kommunikation mit hauskrankenpflege und heimen
+48                                       anfargen von mdk ,kk und gerichten
+49                                                terminmanagement/-vergabe
+50                                             störungen der pc anwendungen
+51                                                  lesen von fremdbefunden
